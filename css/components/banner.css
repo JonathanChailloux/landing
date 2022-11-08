@@ -1,0 +1,29 @@
+.banner {
+  color : white;
+  padding : 200px;
+  background-image: url('../../images/photobanniere.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 100px;
+  font-weight: 700;
+  text-align: left;
+}
+.banner h2 {
+  color: white;
+  font-size: 50px;
+  font-weight: bold;
+  opacity: 0.8;
+  text-align: left;
+}
+
+.banner {
+  background-image:
+
+    linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 50%),
+
+    url('../../images/photobanniere.jpg');
+}

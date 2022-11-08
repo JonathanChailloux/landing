@@ -1,0 +1,15 @@
+.greycard {
+  background-color: #f8f7f4;;
+  font-family: 'League Spartan', sans-serif;
+  margin: 20px 0px;
+  padding: 20px 50px;
+  border-radius: 10px;
+  text-align: justify;
+  box-shadow: 0 10px 15px 0 rgb(0 0 0 / 15%);
+  margin-bottom: 80px;
+}
+
+.greycard p{
+  font-size: 22px;
+}
+
